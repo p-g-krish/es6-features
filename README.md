@@ -7,7 +7,7 @@ Copyright (c) 2015-2017 Ralf S. Engelschall &lt;[rse@engelschall.com](mailto:rse
 Partially based on [code snippets](http://git.io/es6features) by Luke Hoban.<br/>
 Licensed under MIT license.
 
-This is the source of the website [es6-features.org](http://es6-features.org/),
+This is the source of the website [rse.github.io/es6-features/](https://rse.github.io/es6-features/),
 a small overview of current
 [ECMAScript 6](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
 language features and a comparison to their old
@@ -66,8 +66,8 @@ ECMAScript 5 equivalents.
   shown style on the website. If you even need to enforce a particular
   style for both ES6 and ES5 code snippets in your bookmarks, just use
   one of the following URLs:
-  [ES6-Features (reduced style)](http://es6-features.org/#reduced) or
-  [ES6-Features (traditional style)](http://es6-features.org/#traditional)
+  [ES6-Features (reduced style)]( https://rse.github.io/es6-features/#reduced) or
+  [ES6-Features (traditional style)]( https://rse.github.io/es6-features/#traditional)
 
 - *I still don't understand: why should I use ECMAScript 6? ECMAScript 5 looks sufficient.*
 
@@ -85,7 +85,7 @@ ECMAScript 5 equivalents.
 
 - *I've found a mistake, how can I contribute?*
 
-  The source is the file `features.txt`, everything else on [es6-features.org](http://es6-features.org) is
+  The source is the file `features.txt`, everything else on [rse.github.io/es6-features/](https://rse.github.io/es6-features/) is
   just generated out of it. Fork this project on Github, edit the file
   `features.txt` and then please send a pull request.
 
